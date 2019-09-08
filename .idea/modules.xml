@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/originfriend_base/originfriend_base.iml" filepath="$PROJECT_DIR$/originfriend_base/originfriend_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/originfriend_common/originfriend_common.iml" filepath="$PROJECT_DIR$/originfriend_common/originfriend_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/originfriend_parentnew.iml" filepath="$PROJECT_DIR$/originfriend_parentnew.iml" />
+    </modules>
+  </component>
+</project>

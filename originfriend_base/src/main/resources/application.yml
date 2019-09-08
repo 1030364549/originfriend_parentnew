@@ -1,0 +1,13 @@
+server:
+  port: 9001 #tomcat启动端口
+spring:
+  application:
+    name: originfriend-base #项目名称
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/originfriend_base?characterEncoding=utf-8
+    username: root
+    password: root
+  jpa:
+    database: mysql
+    show-sql: true   #是否在控制台打印sql
